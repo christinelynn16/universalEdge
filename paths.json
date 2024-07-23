@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/LPUniversalEditorTestDemo/:/",
-    "/content/LPUniversalEditorTestDemo/configuration:/.helix/config.json"
+    "/content/universalEdge/:/"
   ]
 }
