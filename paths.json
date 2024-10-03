@@ -1,6 +1,6 @@
 {
   "mappings": [
     "/content/LPUniversalEditorTestDemo/:/",
-    "/content/wysiwyg/employeeData:/employeeData.json"
+    "/content/wysiwygEdge/employeedata:/employeedata.json"
   ]
 }
